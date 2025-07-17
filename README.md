@@ -2,6 +2,6 @@
 This is my first Repository
 <br>
 ### 👨‍💻 Author  
-**Abdulwahid**
+**Abdulwahid (Student)**
 
 
